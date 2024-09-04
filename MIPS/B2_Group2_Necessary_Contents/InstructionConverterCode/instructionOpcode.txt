@@ -1,0 +1,16 @@
+A add 
+B addi 
+C sub 
+D subi 
+E Logic and 
+F Logic andi 
+G Logic or 
+H ori 
+I sll 
+J srl 
+K nor 
+L sw 
+M lw 
+N beq 
+O bneq 
+P j 
